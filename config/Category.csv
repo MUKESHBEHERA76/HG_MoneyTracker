@@ -1,0 +1,56 @@
+ID,CATEGORY_NAME,CATEGORY_TYPE,USER,IMAGE_URL
+1,Groceries,Expense,Default,https://img.icons8.com/color/48/food-donor.png
+2,Vegetable,Expense,Default,https://img.icons8.com/color/48/finocchio.png
+3,"Home rent",Expense,Default,https://img.icons8.com/external-flat-lima-studio/64/external-tenant-real-estate-flat-lima-studio.png
+4,"Electricity bill",Expense,Default,https://img.icons8.com/stencil/32/electricity.png
+5,"Water bill",Expense,Default,https://img.icons8.com/emoji/48/droplet.png
+6,"Gas bill",Expense,Default,https://img.icons8.com/stencil/32/gas-industry.png
+7,Fuel,Expense,Default,https://img.icons8.com/color/48/gas-pump.png
+8,"Vehicle maintenance",Expense,Default,https://img.icons8.com/arcade/64/car-service.png
+9,"Health Insurance",Expense,Default,https://img.icons8.com/color-pixels/32/medical-insurance.png
+10,Supermarket,Expense,Default,https://img.icons8.com/fluency/48/grocery-store.png
+11,"Dining out",Expense,Default,https://img.icons8.com/stencil/32/dining-room.png
+12,"Snacks and beverages",Expense,Default,https://img.icons8.com/fluency/48/soda-cup.png
+13,"Medical bills",Expense,Default,https://img.icons8.com/office/40/bounced-check.png
+14,"Wellness expenses",Expense,Default,https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-wellness-new-normal-flaticons-flat-flat-icons.png
+15,"Tuition fees",Expense,Default,https://img.icons8.com/stickers/50/teacher-hirring.png
+16,"Books and supplies",Expense,Default,https://img.icons8.com/emoji/48/books-emoji.png
+17,"Online courses",Expense,Default,https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-courses-recruitment-agency-flaticons-flat-flat-icons-2.png
+18,"Movies and events",Expense,Default,https://img.icons8.com/fluency/48/movies-folder--v2.png
+19,"Streaming subscriptions",Expense,Default,https://img.icons8.com/external-filled-color-icons-papa-vector/78/external-Making-Money-with-Subscriptions-saas-solutions-filled-color-icons-papa-vector.png
+20,"Credit card payments",Expense,Default,https://img.icons8.com/fluency/48/credit-card-front.png
+21,"Loan installments",Expense,Default,https://img.icons8.com/color/48/installment-plan.png
+22,Clothing,Expense,Default,https://img.icons8.com/color/48/jacket.png
+23,"Beauty and grooming",Expense,Default,https://img.icons8.com/color/48/shaving-man.png
+24,"Gym memberships",Expense,Default,https://img.icons8.com/scribby/50/barbell.png
+25,"Charitable contributions",Expense,Default,https://img.icons8.com/color/48/donate.png
+26,"Tickets (flights, trains, buses)",Expense,Default,https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-tickets-digital-nomading-relocation-flaticons-flat-flat-icons.png
+27,Salary,Earning,Default,https://img.icons8.com/fluency/48/money-transfer.png
+28,Commissions,Earning,Default,https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-commission-digital-marketing-flaticons-flat-flat-icons.png
+29,"Sales revenue",Earning,Default,https://img.icons8.com/fluency/48/total-sales-1.png
+30,"Service income",Earning,Default,https://img.icons8.com/pieces/64/service.png
+31,Dividends,Earning,Default,https://img.icons8.com/cute-clipart/64/to-bank.png
+32,"Interest (Savings, Bonds)",Earning,Default,https://img.icons8.com/external-filled-outline-wichaiwi/64/external-Interest-business-filled-outline-wichaiwi.png
+33,"Capital gains (Stocks, Mutual Funds)",Earning,Default,https://img.icons8.com/fluency/48/total-sales-1.png
+34,"Property rent",Earning,Default,https://img.icons8.com/deco-color/48/sell-property.png
+35,"Tax refunds",Earning,Default,https://img.icons8.com/fluency/48/tax.png
+36,"Insurance claims",Earning,Default,https://img.icons8.com/color/48/insurance-agent-skin-type-3.png
+37,"Lottery winnings",Earning,Default,https://img.icons8.com/color/48/win.png
+38,"One-time bonuses",Earning,Default,https://img.icons8.com/external-flat-geotatah/64/external-bonus-stock-market-flat-flat-geotatah.png
+50,Fish,Expense,Default,https://img.icons8.com/emoji/48/fish-emoji.png
+51,Chicken,Expense,Default,https://img.icons8.com/matisse/50/chicken.png
+52,Mutton,Expense,Default,https://img.icons8.com/external-icongeek26-flat-icongeek26/50/external-mutton-meat-icongeek26-flat-icongeek26.png
+53,Prawn,Expense,Default,https://img.icons8.com/color/48/prawn.png
+54,Fruits,Expense,Default,https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-fruits-farm-flaticons-flat-flat-icons-2.png
+55,Zomato,Expense,Default,https://img.icons8.com/ios-filled/50/zomato-logo.png
+56,Swiggy,Expense,Default,https://img.icons8.com/doodle/50/swiggy.png
+57,Medicine,Expense,Defalut,https://img.icons8.com/color/48/pills.png
+58,Milk,Expense,Default,https://img.icons8.com/isometric/50/milk.png
+59,Plant,Expense,Default,https://img.icons8.com/arcade/64/plant-under-sun.png
+60,Food,Expense,Default,https://img.icons8.com/external-vectorslab-flat-vectorslab/53/external-Food-Plate-food-and-beverage-vectorslab-flat-vectorslab.png
+61,Savings,Saving,Default,https://img.icons8.com/papercut/120/merchant-account.png
+62,Deposits,Saving,Default,https://img.icons8.com/color/48/bank.png
+63,"Emergency Fund",Saving,Default,https://img.icons8.com/external-nawicon-flat-nawicon/64/external-Emergency-Fund-money-management-nawicon-flat-nawicon.png
+64,Investments,Saving,Default,https://img.icons8.com/color/48/coins.png
+65,"Mobile Recharge",Expense,Default,https://img.icons8.com/external-sapphire-kerismaker/50/external-Top-Up-payment-sapphire-kerismaker.png
+66,"My personal",Expense,mukeshbehera76@gmail.com,https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-commission-digital-marketing-flaticons-flat-flat-icons.png

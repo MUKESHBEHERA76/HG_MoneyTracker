@@ -125,6 +125,34 @@
 </MAP>
 </MAPINVOKE>
 
+<MAPSET NAME="Setter" OVERWRITE="true" VARIABLES="false" GLOBALVARIABLES="false" FIELD="/LocalPipeline;4;0;HG_MoneyTracker.SendOTP.docs:LocalPipeline/success;1;0">
+  <DATA ENCODING="XMLValues" I18N="true">
+
+<Values version="2.0">
+  <value name="xml">true</value>
+  <record name="type" javaclass="com.wm.util.Values">
+    <value name="node_type">record</value>
+    <value name="node_subtype">unknown</value>
+    <value name="node_comment"></value>
+    <record name="node_hints" javaclass="com.wm.util.Values">
+      <value name="field_usereditable">true</value>
+      <value name="field_largerEditor">false</value>
+      <value name="field_password">false</value>
+    </record>
+    <value name="is_public">false</value>
+    <value name="field_name">success</value>
+    <value name="field_type">string</value>
+    <value name="field_dim">0</value>
+    <array name="field_options" type="value" depth="1">
+    </array>
+    <value name="nillable">true</value>
+    <value name="form_qualified">false</value>
+    <value name="is_global">false</value>
+  </record>
+</Values>
+</DATA>
+</MAPSET>
+
 <MAPSET NAME="Setter" OVERWRITE="true" VARIABLES="false" GLOBALVARIABLES="false" FIELD="/LocalPipeline;4;0;HG_MoneyTracker.SendOTP.docs:LocalPipeline/bodyTemplate;1;0">
   <DATA ENCODING="XMLValues" I18N="true">
 
@@ -141,7 +169,7 @@
         &lt;div style="text-align: center; font-size: 24px; color: #333;"&gt;
             OTP Verification Code
         &lt;/div&gt;
-        &lt;p&gt;Dear %value emailFirstName%,&lt;/p&gt;
+        &lt;p&gt;Dear %value LocalPipeline/emailFirstName%,&lt;/p&gt;
         &lt;p&gt;Your OTP code for verification is:&lt;/p&gt;
         &lt;div style="font-size: 36px; font-weight: bold; color: #4CAF50; text-align: center; padding: 10px; background-color: #f9f9f9; border-radius: 5px; margin: 20px 0;"&gt;
             %value LocalPipeline/otp%
@@ -165,34 +193,6 @@
     </record>
     <value name="is_public">false</value>
     <value name="field_name">bodyTemplate</value>
-    <value name="field_type">string</value>
-    <value name="field_dim">0</value>
-    <array name="field_options" type="value" depth="1">
-    </array>
-    <value name="nillable">true</value>
-    <value name="form_qualified">false</value>
-    <value name="is_global">false</value>
-  </record>
-</Values>
-</DATA>
-</MAPSET>
-
-<MAPSET NAME="Setter" OVERWRITE="true" VARIABLES="false" GLOBALVARIABLES="false" FIELD="/LocalPipeline;4;0;HG_MoneyTracker.SendOTP.docs:LocalPipeline/success;1;0">
-  <DATA ENCODING="XMLValues" I18N="true">
-
-<Values version="2.0">
-  <value name="xml">true</value>
-  <record name="type" javaclass="com.wm.util.Values">
-    <value name="node_type">record</value>
-    <value name="node_subtype">unknown</value>
-    <value name="node_comment"></value>
-    <record name="node_hints" javaclass="com.wm.util.Values">
-      <value name="field_usereditable">true</value>
-      <value name="field_largerEditor">false</value>
-      <value name="field_password">false</value>
-    </record>
-    <value name="is_public">false</value>
-    <value name="field_name">success</value>
     <value name="field_type">string</value>
     <value name="field_dim">0</value>
     <array name="field_options" type="value" depth="1">
